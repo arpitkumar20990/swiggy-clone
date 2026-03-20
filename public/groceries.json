@@ -1,0 +1,12 @@
+[
+    {"url":"/groceries/vegetables.avif","name":"Fresh Vegetables"},
+    {"url":"/groceries/fruites.avif","name":"Fresh Fruits"},
+    {"url":"/groceries/dairy.avif","name":"Dairy, Bread and Eggs"},
+    {"url":"/groceries/rice.avif","name":"Rice, Atta and Dals"},
+    {"url":"/groceries/dry fruits.avif","name":"Masalas and Dry Fruits"},
+    {"url":"/groceries/oils.avif","name":"Oils and Ghee"},
+    {"url":"/groceries/Muchies.avif","name":"Muchies"},
+    {"url":"/groceries/sweet.avif","name":"Sweet Tooth"},
+    {"url":"/groceries/colddrink.avif","name":"Cold Drinks and Juices"},
+    {"url":"/groceries/biscuits.avif","name":"Biscuits and Cakes"}
+]
